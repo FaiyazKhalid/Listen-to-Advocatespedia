@@ -1,6 +1,11 @@
 # Listen-to-Advocatespedia
 Advocatespedia Listen is a visual spark particle representation of total hitting counted by Advocatespedia. The script is in Javascript language and PHP 7 written by Adv. Faiyaz Khalid
+# Visual 1
 ![image](https://user-images.githubusercontent.com/15283416/132361029-ed8dd979-1682-4c01-a7da-80a5be9c0fb6.png)
+
+# Visual 2
+![image](https://user-images.githubusercontent.com/15283416/133461694-502e99ca-5314-4289-bb18-7d61cc01970b.png)
+
 
 # How it works
 1. Suppose you have a website and you want to know web hitting(Statistics/counting) update in real time. 
